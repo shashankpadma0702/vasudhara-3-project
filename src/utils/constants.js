@@ -1,0 +1,22 @@
+export const NAMES_LIST = [
+  "Alice Johnson",
+  "Bob Smith",
+  "Charlie Brown",
+  "David Williams",
+  "Eva Davis",
+  "Frank Miller",
+  "Grace Wilson",
+  "Henry Moore",
+  "Ivy Taylor",
+  "Jack Anderson",
+  "Katherine Thomas",
+  "Leo Martin",
+  "Mia Thompson",
+  "Noah Garcia",
+  "Olivia Martinez",
+  "Peter Robinson",
+  "Quinn Clark",
+  "Rachel Lewis",
+  "Sam Walker",
+  "Tina Hall"
+];
